@@ -1,2 +1,2 @@
 # ttodcc_errata
-Unofficial Errata for ~~The Theory of Database Concurrency Control~~
+Unofficial Errata for Christos Papadimitriou, *The Theory of Database Concurrency Control*, 1986.
