@@ -5,6 +5,8 @@
 # Overview
 **Unofficial** Errata for Christos Papadimitriou, *The Theory of Database Concurrency Control*, 1986.
 
+![cover](https://user-images.githubusercontent.com/47991351/72767770-8119ac80-3c38-11ea-94e3-40cfc4efc4f3.jpg)
+
 # Usage
 If you find something wrong, you can search this page or Issues.
 
