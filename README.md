@@ -20,6 +20,8 @@ For probable fix, you can create a merge request to errata.
 # Errata
 
 ## Chapter 1 INTRODUCTION
+N/A
+
 ## Chapter 2 CORRECTNESS
 
 ### 2.2 FINAL-STATE SERIALIZABILITY
@@ -30,7 +32,17 @@ For probable fix, you can create a merge request to errata.
 
 "... graph-theoretic characterization of **final**-state equivalence ..."
 
-[#1](https://github.com/supisula/ttodcc_errata/issues/1)|
+[#1](https://github.com/supisula/ttodcc_errata/issues/1)
+
+### 2.4 VIEW SERIALIZABILITY
+#### p.34 3rd line from the bottom
+"v_s^k(I,S)"
+
+->
+
+"v_s^k(I,**X**)"
+
+[#3](https://github.com/supisula/ttodcc_errata/issues/3)
 
 ## Chapter 3 MORE ON CORRECTNESS
 N/A
