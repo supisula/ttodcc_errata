@@ -18,7 +18,12 @@
 [#1](https://github.com/supisula/ttodcc_errata/issues/1)|
 
 # Chapter 3 MORE ON CORRECTNESS
+N/A
 # Chapter 4 SCHEDULERS
+N/A
 # Chapter 5 THE PERFORMANCE OF SCHEDULERS
+N/A
 # Chapter 6 THE THEORY OF LOCKING
+N/A
 # Chapter 7 DISTRIBUTED CONCURRENCY CONTROL
+N/A
