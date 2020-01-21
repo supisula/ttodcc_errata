@@ -5,9 +5,17 @@
 
 # Chapter 1 INTRODUCTION
 # Chapter 2 CORRECTNESS
-|Location|Description|Issue|
-|:---|:---|:---|
-|p.21<br>1st paragraph after Excample 2.1 (continued)|"... graph-theoretic characterization of finite-state equivalence ..."<br>-><br>"... graph-theoretic characterization of **final**-state equivalence ..."|[#1](https://github.com/supisula/ttodcc_errata/issues/1)|
+
+## 2.2 FINAL-STATE SERIALIZABILITY
+### p.21
+#### 1st paragraph after Excample 2.1 (continued)
+"... graph-theoretic characterization of finite-state equivalence ..."
+
+->
+
+"... graph-theoretic characterization of **final**-state equivalence ..."
+
+[#1](https://github.com/supisula/ttodcc_errata/issues/1)|
 
 # Chapter 3 MORE ON CORRECTNESS
 # Chapter 4 SCHEDULERS
