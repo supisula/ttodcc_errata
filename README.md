@@ -25,21 +25,17 @@ N/A
 ## Chapter 2 CORRECTNESS
 
 ### 2.2 FINAL-STATE SERIALIZABILITY
-#### p.21 1st paragraph after Excample 2.1 (continued)
-"... graph-theoretic characterization of finite-state equivalence ..."
-
-->
-
+#### - p.21 1st paragraph after Excample 2.1 (continued)
+"... graph-theoretic characterization of finite-state equivalence ..."  
+->  
 "... graph-theoretic characterization of **final**-state equivalence ..."
 
 [#1](https://github.com/supisula/ttodcc_errata/issues/1)
 
 ### 2.4 VIEW SERIALIZABILITY
-#### p.34 3rd line from the bottom
-"v_s^k(I,S)"
-
-->
-
+#### - p.34 3rd line from the bottom
+"v_s^k(I,S)"  
+->  
 "v_s^k(I,**X**)"
 
 [#3](https://github.com/supisula/ttodcc_errata/issues/3)
