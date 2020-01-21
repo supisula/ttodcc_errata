@@ -40,6 +40,15 @@ N/A
 
 [#3](https://github.com/supisula/ttodcc_errata/issues/3)
 
+### 2.5 TTHE COMPLEXITY OF VIEW SERIALIZABILITY
+#### - p.36 1st paragraph from the top
+"We say that *D* is *compatible* with *P* if *A* \subset *B*, and for each choice (*u*,*v*,*w*) \in C either (*u*,*v*) \in *A* or (*v*,*w*) \in *A*"  
+->  
+"We say that *D* is *compatible* with *P* if *A* \subset *B*, and for each choice (*u*,*v*,*w*) \in C either (*u*,*v*) \in ***B*** or (*v*,*w*) \in ***B***"
+
+[#7](https://github.com/supisula/ttodcc_errata/issues/7)
+
+
 ## Chapter 3 MORE ON CORRECTNESS
 N/A
 ## Chapter 4 SCHEDULERS
