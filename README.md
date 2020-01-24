@@ -41,6 +41,12 @@ N/A
 [#3](https://github.com/supisula/ttodcc_errata/issues/3)
 
 ### 2.5 TTHE COMPLEXITY OF VIEW SERIALIZABILITY
+#### - p.36 Figure 2.4
+- The second Choice from the top lacks arrowheads. [#5](https://github.com/supisula/ttodcc_errata/issues/5)
+- No need for left arrowhead of center arc. [#6](https://github.com/supisula/ttodcc_errata/issues/6)
+
+![Figure 2.4](https://user-images.githubusercontent.com/47991351/73111647-7750bb80-3f4e-11ea-8c23-fc22aceb7b95.png)
+
 #### - p.36 1st paragraph from the top
 "We say that *D* is *compatible* with *P* if *A* \subset *B*, and for each choice (*u*,*v*,*w*) \in C either (*u*,*v*) \in *A* or (*v*,*w*) \in *A*"  
 ->  
