@@ -25,6 +25,14 @@ N/A
 ## Chapter 2 CORRECTNESS
 
 ### 2.2 FINAL-STATE SERIALIZABILITY
+#### - p.21 Excample 2.1 argumented schedule
+The layout of the argumented schedule s^ is broken.  
+The write step W(y) of A3 should be before W(y) of A2.
+
+![image](https://user-images.githubusercontent.com/47991351/73112112-6d2fbc80-3f50-11ea-9eaa-185cbee6000f.png)
+
+[#4](https://github.com/supisula/ttodcc_errata/issues/4)
+
 #### - p.21 1st paragraph after Excample 2.1 (continued)
 "... graph-theoretic characterization of finite-state equivalence ..."  
 ->  
