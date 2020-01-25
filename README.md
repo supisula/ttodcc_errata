@@ -56,9 +56,9 @@ The write step W(y) of A3 should be before W(y) of A2.
 ![Figure 2.4](https://user-images.githubusercontent.com/47991351/73111647-7750bb80-3f4e-11ea-8c23-fc22aceb7b95.png)
 
 #### - p.36 1st paragraph from the top
-"We say that *D* is *compatible* with *P* if *A* \subset *B*, and for each choice (*u*,*v*,*w*) \in C either (*u*,*v*) \in *A* or (*v*,*w*) \in *A*"  
+![error](https://user-images.githubusercontent.com/47991351/73115474-a6c0f180-3f69-11ea-93d1-ce719daac799.png)  
 ->  
-"We say that *D* is *compatible* with *P* if *A* \subset *B*, and for each choice (*u*,*v*,*w*) \in C either (*u*,*v*) \in ***B*** or (*v*,*w*) \in ***B***"
+![correct](https://user-images.githubusercontent.com/47991351/73115479-b3454a00-3f69-11ea-8e3e-4be1143f8169.png)
 
 [#7](https://github.com/supisula/ttodcc_errata/issues/7)
 
