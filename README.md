@@ -42,9 +42,9 @@ The write step W(y) of A3 should be before W(y) of A2.
 
 ### 2.4 VIEW SERIALIZABILITY
 #### - p.34 3rd line from the bottom
-"v_s^k(I,S)"  
+![error](https://user-images.githubusercontent.com/47991351/73115390-99573780-3f68-11ea-8483-918200f1131d.png)  
 ->  
-"v_s^k(I,**X**)"
+![correct](https://user-images.githubusercontent.com/47991351/73115402-ac6a0780-3f68-11ea-9300-4c8234c06b7e.png)
 
 [#3](https://github.com/supisula/ttodcc_errata/issues/3)
 
