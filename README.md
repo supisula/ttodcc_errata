@@ -65,6 +65,13 @@ For probable fix, you can create a merge request to errata.
 
 
 ## 2.6 CONFLICT SERIALIZABILITY
+### p.45 Proposition 2.1  [#19](https://github.com/supisula/ttodcc_errata/issues/19)
+"Proposition 2.1: *If a schedule is conflict serializable, then it is view serializable.*"  
+->  
+"Proposition **2.2**: *If a schedule is conflict serializable, then it is view serializable.*"  
+
+
+
 ### p.47 3rd paragraph from the top  [#15](https://github.com/supisula/ttodcc_errata/issues/15)
 "(recall Section 1.3),"  
 ->  
