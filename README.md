@@ -22,7 +22,6 @@ For probable fix, you can create a merge request to errata.
 ---
 ## Chapter 1 INTRODUCTION
 
----
 ## Chapter 2 CORRECTNESS
 
 ## 2.2 FINAL-STATE SERIALIZABILITY
@@ -35,15 +34,11 @@ For probable fix, you can create a merge request to errata.
 ->  
 "... graph-theoretic characterization of **final**-state equivalence ..."
 
-
-
 ## 2.4 VIEW SERIALIZABILITY
 ### - p.34 3rd line from the bottom  [#3](https://github.com/supisula/ttodcc_errata/issues/3)
 ![error](https://user-images.githubusercontent.com/47991351/73115390-99573780-3f68-11ea-8483-918200f1131d.png)  
 ->  
 ![correct](https://user-images.githubusercontent.com/47991351/73115402-ac6a0780-3f68-11ea-9300-4c8234c06b7e.png)
-
-
 
 ## 2.5 TTHE COMPLEXITY OF VIEW SERIALIZABILITY
 ### - p.36 Figure 2.4  [#5](https://github.com/supisula/ttodcc_errata/issues/5)  [#6](https://github.com/supisula/ttodcc_errata/issues/6)
@@ -55,19 +50,24 @@ For probable fix, you can create a merge request to errata.
 ->  
 ![correct](https://user-images.githubusercontent.com/47991351/73115479-b3454a00-3f69-11ea-8e3e-4be1143f8169.png)
 
----
+## 2.6 CONFLICT SERIALIZABILITY
+### p.47 3rd paragraph from the top  [#15](https://github.com/supisula/ttodcc_errata/issues/15)
+"(recall Section 1.3),"  
+->  
+"(recall Section **1.2**),"
+
 ## Chapter 3 MORE ON CORRECTNESS
 N/A
----
+
 ## Chapter 4 SCHEDULERS
 N/A
----
+
 ## Chapter 5 THE PERFORMANCE OF SCHEDULERS
 N/A
----
+
 ## Chapter 6 THE THEORY OF LOCKING
 N/A
----
+
 ## Chapter 7 DISTRIBUTED CONCURRENCY CONTROL
 N/A
----
+
