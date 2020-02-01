@@ -80,11 +80,17 @@ For probable fix, you can create a merge request to errata.
 
 
 ## 2.7 SPECIAL CASES
-### p.51 Proof of Theorem 2.11  [#20](https://github.com/supisula/ttodcc_errata/issues/20)
+### p.51 1st sentence of Proof of Theorem 2.11  [#20](https://github.com/supisula/ttodcc_errata/issues/20)
 "By Proposition 2.1 conflict serializability implies view serializability."  
 ->  
-"By Proposition **2.1** conflict serializability implies view serializability."  
+"By Proposition **2.2** conflict serializability implies view serializability."  
 
+
+
+### p.51 The middle of Proof of Theorem 2.11  [#25](https://github.com/supisula/ttodcc_errata/issues/25)
+"By Lemma 2.6, all write steps on each entity are totally ordered in D(s), and thus in D(s')"  
+->  
+"By Lemma 2.6, all write steps on each entity are totally ordered in D(**s'**), and thus in D(**s**)"
 
 
 ## Chapter 3 MORE ON CORRECTNESS
