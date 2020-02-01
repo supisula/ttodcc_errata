@@ -39,7 +39,7 @@ For probable fix, you can create a merge request to errata.
 ### - p.22 The center node of D(s), Figure 2.1  [#18](https://github.com/supisula/ttodcc_errata/issues/18)
 "A_3:K(x)"  
 ->  
-"A_3:R(x)"
+"A_3:**R**(x)"
 
 
 ## 2.4 VIEW SERIALIZABILITY
